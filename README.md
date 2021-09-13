@@ -1,2 +1,2 @@
 # info-digital-05
-Cuarta clase infografía digital
+Quinta clase infografía digital
